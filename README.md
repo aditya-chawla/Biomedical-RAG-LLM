@@ -10,12 +10,14 @@ This project integrates **BioGPT** with the **NCBI Entrez** database to develop 
 
 ![Biomedical RAG System Flow](workflo.png)    
 - **User Interface**: GUI for seamless question input and answer retrieval.
-  ![Graphical User Interface (GUI)](finalGUI.png) 
+
+![Graphical User Interface (GUI)](finalGUI.png) 
 
 ## Results  
 - Batch-wise evaluations showed consistent accuracy improvements, with peak accuracy at **81.5%**.  
 - Overall system accuracy: **78%**.
-  ![Batch-Wise and Overall Accuracy](batchWise.png)
+
+![Batch-Wise and Overall Accuracy](batchWise.png)
  
 
 ## References  
