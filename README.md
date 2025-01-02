@@ -7,6 +7,7 @@ This project integrates **BioGPT** with the **NCBI Entrez** database to develop 
   2. **Context Retrieval**: Searches and retrieves relevant articles via NCBI Entrez API.  
   3. **Context Combination**: Merges retrieved and input context for enhanced query understanding.  
   4. **Answer Generation**: Fine-tuned BioGPT processes and generates accurate responses.
+
 ![Biomedical RAG System Flow](workflo.png)    
 - **User Interface**: GUI for seamless question input and answer retrieval.
   ![Graphical User Interface (GUI)](finalGUI.png) 
