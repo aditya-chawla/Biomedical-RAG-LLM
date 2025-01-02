@@ -6,13 +6,15 @@ This project integrates **BioGPT** with the **NCBI Entrez** database to develop 
   1. **Question Loading**: Inputs from user interface.  
   2. **Context Retrieval**: Searches and retrieves relevant articles via NCBI Entrez API.  
   3. **Context Combination**: Merges retrieved and input context for enhanced query understanding.  
-  4. **Answer Generation**: Fine-tuned BioGPT processes and generates accurate responses.  
-- **Performance**: Achieves up to **78% accuracy** on PubMedQA dataset, demonstrating significant improvement over baseline BioGPT without retrieval.  
-- **User Interface**: GUI for seamless question input and answer retrieval.  
+  4. **Answer Generation**: Fine-tuned BioGPT processes and generates accurate responses.
+![Biomedical RAG System Flow](workflo.png)    
+- **User Interface**: GUI for seamless question input and answer retrieval.
+  ![Graphical User Interface (GUI)](finalGUI.png) 
 
 ## Results  
 - Batch-wise evaluations showed consistent accuracy improvements, with peak accuracy at **81.5%**.  
-- Overall system accuracy: **78%**.  
+- Overall system accuracy: **78%**.
+  ![Batch-Wise and Overall Accuracy](batchWise.png)
  
 
 ## References  
